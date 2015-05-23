@@ -1,0 +1,15 @@
+Origin: kisanagi
+
+Label: Kyoko’s Basket
+
+Suite: stable
+
+Version: 1.0
+
+Codename: kisanagi
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Kyoko’s Basket - I make stuff and put them here!
