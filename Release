@@ -1,4 +1,4 @@
-Origin: Kyoko's Basket
+Origin: KyokoRepo
 
 Label: Kyoko’s Basket
 
@@ -6,7 +6,7 @@ Suite: stable
 
 Version: 1.0
 
-Codename: Kyoko's Basket
+Codename: KyokoRepo
 
 Architectures: iphoneos-arm
 
