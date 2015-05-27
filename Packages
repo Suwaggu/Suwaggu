@@ -19,10 +19,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Kyoko Gunma <kyokonobasuketto@gmail.com>
 Filename: debs//Subete iPad Retina.deb
-Size: 7013448
-MD5sum: e69addd00aae09d7472e53cd51769308
-SHA1: 8c1d48c324ff2397e0f3aaba6fd7f9efe44de0c5
-SHA256: c983af32088a98ac386cf8f98a918f2d532a101ab90e32bbf8eaf5b7087b32b7
+Size: 7013126
+MD5sum: ad30b275c5c36b131874e1fe9f31b262
+SHA1: 1fd300d68676f9b1e9f2287617944fe04f3520e3
+SHA256: 431c183f1fa7bc171e70df2d0757b684a6951004bda2ac050a9f50d7d87d6ab8
 Section: Themes
 Homepage: http://www.kisanagii.deviantart.com
 Description: Subete Retina iPad theme
